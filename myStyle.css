@@ -1,0 +1,17 @@
+.flex {
+  display: flex; 
+  justify-content: center;
+}
+
+h1 {
+
+}
+
+.buttons {
+  width: 50%;
+
+}
+
+button {
+  margin: 10px;
+}
